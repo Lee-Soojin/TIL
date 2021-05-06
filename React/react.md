@@ -1,6 +1,6 @@
 # React 공부 기록
 
-_21.05.03_
+_📝21.05.03_
 
 - image src 작성시
 
@@ -19,3 +19,13 @@ _21.05.03_
 - 사진 여러장을 불러올 경우
 
 참고: Youtube <Multiple Images in ONE IMPORT | ReactJS> [link here]('https://youtu.be/gEMAZSO85KY')
+
+---
+
+_📝21.05.07_
+
+- React.js 랑 Firebase Realtime Database 사용하기
+
+참고한 유용한 링크 : <https://www.educative.io/edpresso/firebase-as-simple-database-to-react-app>
+
+firebase -> Database -> real time database 의 경로로 실시간 데이터에 접근하고 싶다면 *ref*를 이용하면 된다.
