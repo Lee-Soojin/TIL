@@ -29,3 +29,5 @@ _📝21.05.07_
 참고한 유용한 링크 : <https://www.educative.io/edpresso/firebase-as-simple-database-to-react-app>
 
 firebase -> Database -> real time database 의 경로로 실시간 데이터에 접근하고 싶다면 *ref*를 이용하면 된다.
+
+
