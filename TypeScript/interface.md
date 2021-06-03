@@ -95,3 +95,49 @@ game.createItem('thunder', 'wind', 30);
 ```
 
 클래스에 implements를 이용하여 interface를 선언할 수 있습니다. 해당 클래스는 선언된 interface 를 반드시 구현해야 합니다.
+
+### 인터페이스는 규약 ⭕❌❓
+
+```ts
+type Game {
+  round: number,
+  Item: boolean,
+  Skin: boolean,
+};
+
+interface VIP {
+  playgame(round: number): Game;
+  UseItem(items:string):void;
+  UseSkin(skin: string):void;
+}
+
+interface CommonUser {
+  playgame(round: number) :Game;
+}
+
+class PlayGame implements VIP, CommonUser{
+  playgame(){
+    ...
+  }
+  UseItem() {
+    ...
+  }
+  UseSkin() {
+    ...
+  }
+  ...
+
+  class VIPGAMER{
+    constructor(private game: VIP){}
+    ...
+  }
+
+  class CommonGamer{
+    constructor(private game: CommonUser){}
+    ...
+  }
+}
+```
+
+위의 경우는 VIP 유저와 일반 유저 interface를 만들어 게임 플레이시 일반 유저와 vip 유저의 기능에 차이를 주는 것이다.
+VIP interface 를 이용할 경우 playgame, UseItem, UseSkin의 기능을 사용가능하고 CommonUser interface 를 이용하면 playgame 기능만 사용가능하다. 즉 interface는 **규약을 지정하는 것**이라고도 할 수 있다.
