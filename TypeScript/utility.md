@@ -104,7 +104,7 @@ const person: Customer = {
 };
 ```
 
-## 위와 같이 person이라는 변수에 Customer이라는 Omit type을 지정하여 User type에서 address 속성을 가지지 않도록 한다.
+위와 같이 person이라는 변수에 Customer이라는 Omit type을 지정하여 User type에서 address 속성을 가지지 않도록 한다.
 
 ## `Readonly<T>`
 
