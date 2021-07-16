@@ -14,16 +14,26 @@ Today I Learned
 
 - [서버사이드 렌더링이란?](https://github.com/Lee-Soojin/TIL/blob/main/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D/server_side_rendering.md#%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%B4%EB%9E%80)
 
-\*[객체 지향 프로그래밍](https://github.com/Lee-Soojin/TIL/blob/main/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D/object_oriented_programming.md)
+* [객체 지향 프로그래밍](https://github.com/Lee-Soojin/TIL/blob/main/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D/object_oriented_programming.md)
 
 - [컴파일러란? (What is Compiler?)](https://github.com/Lee-Soojin/TIL/blob/main/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D/compiler.md)
+
+* [patch-package 로 package (node_modules) 수정하고 저장하기](https://github.com/Lee-Soojin/TIL/blob/main/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D/node_modules_edit.md)
 
 ## JavaScript
 
 - [이벤트 위임](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/event%20_delegation.md)
-- [`< input type="radio" >`](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/radio_input.md) \
+- [`< input type="radio" >`](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/radio_input.md)
 
 * [Rest Parameter](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/rest_parameter.md)
+
+* [bind란?](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/bind.md)
+
+* [for...in](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/for...in.md)
+
+* [for... of](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/for...of.md)
+
+* [프로토타입이란?](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/prototype.md)
 
 ## React
 
