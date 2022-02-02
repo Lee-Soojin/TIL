@@ -20,6 +20,8 @@ Today I Learned
 
 * [patch-package 로 package (node_modules) 수정하고 저장하기](https://github.com/Lee-Soojin/TIL/blob/main/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D/node_modules_edit.md)
 
+- [의존성 주입](https://github.com/Lee-Soojin/TIL/blob/main/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D/dependency_injection.md)
+
 ## JavaScript
 
 - [이벤트 위임](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/event%20_delegation.md)
@@ -34,6 +36,11 @@ Today I Learned
 * [for... of](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/for...of.md)
 
 * [프로토타입이란?](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/prototype.md)
+* [this란?](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/this.md)
+* [class constructor](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/class_constructor.md)
+* [DocumentFragment](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/documentfragment.md)
+* [getter 와 setter](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/getter%26setter.md)
+* [변수 선언/호이스팅/TDZ](https://github.com/Lee-Soojin/TIL/blob/main/Javascript/variable.md)
 
 ## React
 
@@ -44,6 +51,12 @@ Today I Learned
 
   - [TypeError: map of Undefined](https://github.com/Lee-Soojin/TIL/blob/main/React/error/TypeError_map_of_Undefined.md)
   - [Error: Cannot find module '@types/node/package.json'](https://github.com/Lee-Soojin/TIL/blob/main/React/error/typescript_node_error.md)
+
+## Next.js
+
+- [Next.js란?(간단하게)](https://github.com/Lee-Soojin/TIL/blob/main/Next.js/nextjs_intro.md)
+- [Redirects](https://github.com/Lee-Soojin/TIL/blob/main/Next.js/redirect.md)
+- [Rewrites](https://github.com/Lee-Soojin/TIL/blob/main/Next.js/rewrites.md)
 
 ## TypeScript
 
