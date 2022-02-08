@@ -12,7 +12,7 @@ Next.js에서는 **redirect** 기능을 사용할 수 있다. ✨
 
 _next.config.js_ 파일에 들어가서 설정할 수 있다.
 
-![redirect 설정](../img/nextjs_redirect1.png)
+![redirect 설정](../img/nextjs_redirect1.PNG)
 
 redirects 메소드 안에서 배열형식으로 return하여 설정할 수 있다. 배열안에서 object를 생성하여 설정한다.
 

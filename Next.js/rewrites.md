@@ -6,7 +6,7 @@
 
 next.config.js파일 내에서 설정할 수 있다.
 
-![rewrite 설정](../img/nextjs_rewrite.png)
+![rewrite 설정](../img/nextjs_rewrite.PNG)
 
 rewrites 안에서 배열 안 object 형식으로 return해 설정한다.
 

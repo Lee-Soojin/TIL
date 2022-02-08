@@ -34,8 +34,8 @@ import react를 하지 않아도 잘 동작하는 것을 볼수 있다.
 
   next.js에서 제공하는 hook 인 **useRouter**를 사용할 수 있다.
 
-  ![router](../img/nextjs_router.png)
+  ![router](../img/nextjs_router.PNG)
 
   아래와 같이 useRouter를 이용해 navbar를 구성할 수 있다.
 
-![router_2](../img/nextjs_navbar.png)
+![router_2](../img/nextjs_navbar.PNG)
